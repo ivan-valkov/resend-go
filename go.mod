@@ -1,4 +1,4 @@
-module github.com/resend/resend-go/v2
+module github.com/ivan-valkov/resend-go/v2
 
 go 1.23
 
